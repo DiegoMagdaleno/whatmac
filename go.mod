@@ -1,4 +1,4 @@
-module github.com/diegomagdaleno/WhatMac
+module github.com/diegomagdaleno/whatmac
 
 go 1.14
 
