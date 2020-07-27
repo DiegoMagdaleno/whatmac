@@ -1,4 +1,4 @@
-package WhatMac
+package whatmac
 
 type macOSVersion struct {
 	ProductBuildVersion       string `plist:"ProductBuildVersion"`
