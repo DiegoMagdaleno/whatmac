@@ -1,6 +1,6 @@
 package WhatMac
 
-type MacOSVersion struct {
+type macOSVersion struct {
 	ProductBuildVersion       string `plist:"ProductBuildVersion"`
 	ProductCopyright          string `plist:"ProductCopyright"`
 	ProductName               string `plist:"ProductName"`

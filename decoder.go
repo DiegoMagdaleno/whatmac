@@ -8,7 +8,7 @@ import (
 	"howett.net/plist"
 )
 
-var MacOSInfo MacOSVersion
+var MacOSInfo macOSVersion
 
 func Decode() {
 	initialFile, err := ioutil.ReadFile("/System/Library/CoreServices/SystemVersion.plist")
