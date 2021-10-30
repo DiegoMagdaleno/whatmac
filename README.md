@@ -3,8 +3,14 @@
 <img src="https://cdn.osxdaily.com/wp-content/uploads/2018/07/classic-mac-finder-icon.jpg" width=25% height=25%/>
 </p>
 
+## Table of contents
+- [Whatmac](#whatmac)
+- [Why](#why)
+- [Example](#example)
+- [License](#license)
+
 # Whatmac
-Library written in Golang to dumb information about a macOS operating system
+Library written in Golang to dump information about a macOS operating system at runtime, such as version is running on, codename of the operating system, etc.
 
 
 ### Why? 
